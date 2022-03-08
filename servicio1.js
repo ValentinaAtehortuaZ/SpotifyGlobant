@@ -44,6 +44,3 @@ fetch(URI,parametrosPeticion)
 
 .catch(respuestaERROR=> console.log(respuestaERROR))
 
-array.forEach( => {
-    
-});
