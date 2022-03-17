@@ -1,4 +1,5 @@
-import{resultado} from "./servicios2.js"
+import{resultado} from "./serviciosArtista/serviciosMileyCyrus.js"
+
 import{pintarCanciones} from "./pintarCanciones.js"
 
 pintarCanciones(resultado)
